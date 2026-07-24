@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "song": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/mrcyb0rg-1784865081116-God_s_Gonna_Cut_You_Down_-_Johnny_Cash.flac"
+    },
+    {
+      "song": "Help Me",
+      "artist": "Johnny Cash",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/mrcyb0rg-1784865017533-Help_Me_-_Johnny_Cash.flac"
+    },
+    {
       "song": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "artist": "Arijit Singh",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/utubekbentertainment-cloud-1784863078153-Tujhe_Kitna_Chahne_Lage_-_Arijit_Singh__Mithoon.flac"
